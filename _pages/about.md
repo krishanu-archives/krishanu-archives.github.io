@@ -19,11 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 As a design researcher, I explore the human mind and behaviour to build products and experiences that are delightful, simple, and innovative. I create sleek and functional user experiences that enhance brand visibility and drive customer engagement.
 
-Skills & Expertise
-• Design-led strategy • User research • User-centered design • Usability testing • Empathy and advocacy • Analytical skills • Wireframing & prototyping • UI/Visual design • Professional collaboration • Design system creation & implementation • No-code web
-design expert using Framer, Webflow or Wix Studio.
+**Skills & Expertise:** Design-led strategy • User research • User-centered design • Usability testing • Empathy and advocacy • Analytical skills • Wireframing & prototyping • UI/Visual design • Professional collaboration • Design system creation & implementation • No-code web design expert using Framer, Webflow or Wix Studio.
 
 I am an expert in user research and design tools:
-• Research & collaboration: Google Analytics, Miro, Whiteboard, Maze, FigJam
-• Planning: Google Sheets, Notion, Microsoft Excel, Slack, Jira
-• UI & visual design: Figma, Spline, Framer, Webflow, EditorX, Ilustrator, XD, Photoshop, Sketch, Lottie Files.
+- Research & collaboration: *Google Analytics, Miro, Whiteboard, Maze, FigJam*  
+- Planning: *Google Sheets, Notion, Microsoft Excel, Slack, Jira*  
+- UI & visual design: *Figma, Spline, Framer, Webflow, EditorX, Illustrator, XD, Photoshop, Sketch, Lottie Files*
