@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Project Associate at <a href='https://dodiitkanpur.framer.website/'>DoD</a>, <a href='https://www.iitk.ac.in/'>IIT Kanpur</a> | <a href='https://www.sih.gov.in/'>SIH</a> Winner '24 | Prev HCI Research at <a href='http://www.sustainability-and-social-innovation.com/'>SSI</a> - <a href='https://www.iitg.ac.in/'>IIT Guwahati</a>, <a href='https://www.idc.iitb.ac.in/'>IDC</a> - <a href='https://www.iitb.ac.in/'>IIT Bombay</a>, | <a href='https://www.postman.com/'>Postman</a> Advocacy | CS major @<a href='https://jaipur.manipal.edu/'>Manipal</a> '26
+subtitle: Project Associate at <a href='https://dodiitkanpur.framer.website/'>DoD</a>, <a href='https://www.iitk.ac.in/'>IIT Kanpur</a> | <a href='https://www.sih.gov.in/'>SIH</a> Winner '24 | Prev HCI Research at <a href='http://www.sustainability-and-social-innovation.com/'>SSI</a> - <a href='https://www.iitg.ac.in/'>IIT Guwahati</a>, <a href='https://www.idc.iitb.ac.in/'>IDC</a> - <a href='https://www.iitb.ac.in/'>IIT Bombay</a>, | <a href='https://www.postman.com/'>Postman</a> Advocacy | CS major at <a href='https://jaipur.manipal.edu/'>Manipal</a> '26
 profile:
   align: right
   image: prof_pic.jpg
